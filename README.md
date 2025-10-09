@@ -53,3 +53,5 @@ player \*video\_name\*.mp4 move.screen.\*screen\_number\*
 
 No, it will not run automatically because the creator is lazy to do that
 
+hi
+
