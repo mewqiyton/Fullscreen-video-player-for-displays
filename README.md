@@ -1,4 +1,4 @@
-# Fullscreen-video-player-for-displays
+# Fullscreen-video-player-for-displays (im not interested in this project anymore)
 This is the videoplayer if you want to put your video to the first/second monitor and it will play forever
 
 **HOW TO OPEN THE VIDEO**
